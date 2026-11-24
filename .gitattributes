@@ -1,0 +1,10 @@
+# 统一行尾：仓库里存 LF，工作区按系统来
+* text=auto
+''
+## 二进制文件别乱转
+*.png binary
+*.jpg binary
+*.gif binary
+*.zip binary
+*.exe binary
+*.dll binary
